@@ -2,13 +2,13 @@
 **Student_Blog** is a community-driven platform for students in the 11th and 12th grades. It enables students to connect, share knowledge, and support each other. Whether you're preparing for exams or just need a place to discuss your thoughts, GyaanChakra provides the tools you need!
 ---
 ## Signup Page
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/signup.jpg?raw=true" alt="signup"/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/Screenshot%202025-07-10%20225704.png?raw=true" alt="signup"/>
 
 ## Home Page
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/home.jpg?raw=true" alt="home"/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/Screenshot%202025-07-10%20225729.png?raw=true" alt="home"/>
 
 ## Profile page
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/profile.jpg?raw=true" alt="profile"/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/Screenshot%202025-07-10%20231702.png?raw=true" alt="profile"/>
 ## 🚀 Features
 
 - 🔐 **Authentication:** Sign up, log in, and log out seamlessly
@@ -46,13 +46,13 @@ As **Elon Musk** is my inspiration, the UI is heavily influenced by **'X' (forme
 ---
 
 ## Class diagram
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20flow%20chart%202.png?raw=true" alt="Class diagram"/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/gyan%20chakra%20flow%20chart%202.png?raw=true" alt="Class diagram"/>
 
 ## Entity Relationship model
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20entity.png?raw=true" alt="relation"/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/gyan%20chakra%20entity.png?raw=true" alt="relation"/>
 
 ## Sequence diagram
-<img src="https://github.com/akashb2003/GyaanChakra/blob/main/gyan%20chakra%20seqence.png?raw=true" alt="sequence "/>
+<img src="https://github.com/bharathdevang19/Student_blog/blob/main/gyan%20chakra%20seqence.png?raw=true" alt="sequence "/>
 
 ---
 
@@ -64,7 +64,7 @@ As **Elon Musk** is my inspiration, the UI is heavily influenced by **'X' (forme
 
 Feel free to reach out with any questions or suggestions!
 
-- **Email:** akashsgbadadani@gmail.com
+- **Email:** bharathdevang373@gmail.com
 
 ---
 
